@@ -1,0 +1,17 @@
+{
+  "name": "reproduce-html-reporter-issue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@vitest/ui": "^0.31.0",
+    "vite": "^4.3.2",
+    "vitest": "^0.31.0"
+  }
+}
